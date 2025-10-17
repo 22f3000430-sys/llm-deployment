@@ -1,0 +1,9 @@
+# Python
+venv/
+__pycache__/
+
+# Environment secrets
+.env
+
+# Tasks or temporary generated files
+tasks/
